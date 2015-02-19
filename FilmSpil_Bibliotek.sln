@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmSpil_Bibliotek", "FilmSpil_Bibliotek\FilmSpil_Bibliotek.csproj", "{5E3F1325-0BA8-4E73-84FE-FBEC5BB70B1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainLayer", "Film\DomainLayer.csproj", "{843CFA34-9897-4F1B-BEBC-7CF5451D34A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControllerLayer", "ControllerLayer\ControllerLayer.csproj", "{DD3AE5E6-500A-4E60-857A-4BE8D9D9FFB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3F1325-0BA8-4E73-84FE-FBEC5BB70B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E3F1325-0BA8-4E73-84FE-FBEC5BB70B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E3F1325-0BA8-4E73-84FE-FBEC5BB70B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E3F1325-0BA8-4E73-84FE-FBEC5BB70B1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{843CFA34-9897-4F1B-BEBC-7CF5451D34A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{843CFA34-9897-4F1B-BEBC-7CF5451D34A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{843CFA34-9897-4F1B-BEBC-7CF5451D34A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{843CFA34-9897-4F1B-BEBC-7CF5451D34A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD3AE5E6-500A-4E60-857A-4BE8D9D9FFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3AE5E6-500A-4E60-857A-4BE8D9D9FFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3AE5E6-500A-4E60-857A-4BE8D9D9FFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3AE5E6-500A-4E60-857A-4BE8D9D9FFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
