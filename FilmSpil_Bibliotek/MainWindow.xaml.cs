@@ -26,11 +26,5 @@ namespace FilmSpil_Bibliotek
         {
             InitializeComponent();
         }
-
-        private void Test_Click(object sender, RoutedEventArgs e)
-        {
-            spilController = new SpilController();
-            MessageBox.Show(spilController.GetTest());
-        }
     }
 }

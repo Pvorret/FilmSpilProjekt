@@ -39,6 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DatabaseFacade\FilmDBFacade.cs" />
+    <Compile Include="DatabaseFacade\SpilDBFacade.cs" />
     <Compile Include="FilmController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SpilController.cs" />
